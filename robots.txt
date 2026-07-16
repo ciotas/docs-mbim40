@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-jhci76.rtb-system.online/sitemap.xml
